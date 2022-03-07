@@ -1,0 +1,8 @@
+1. Chrome version : Version 98.0.4758.80 (Official Build) (64-bit)
+2. python version : 3.8
+3. Python libraries:
+  a. names 
+  b. random
+  c. selenium 
+  d. time
+  
